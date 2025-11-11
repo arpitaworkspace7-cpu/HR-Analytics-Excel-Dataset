@@ -1,7 +1,5 @@
 # HR-Analytics-Excel-Dataset
-A clean and structured HR Analytics Excel dataset containing 500 employee records for workforce and performance analysis.
-# HR Analytics Excel Dataset
-
+A clean and structured HR Analytics Excel dataset containing 500 employee records for workforce and performance analysis. 
 📊 A professionally curated **HR Analytics dataset** in Excel format, featuring 500 employee records with 39 HR-related columns.  
 This dataset is designed exclusively for **Microsoft Excel analysis**, allowing users to explore workforce trends, performance, and salary insights easily.
 
@@ -52,4 +50,10 @@ Redistribution, resale, or public reposting is not permitted without permission.
 Created by **[ARPITA SHARMA, https://github.com/arpitaworkspace7-cpu]**  
 If you use this dataset, please give credit by linking back to this repository.
 
----
+-hr-analytics
+
+excel-dataset
+
+human-resources
+
+employee-data--
