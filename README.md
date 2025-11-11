@@ -49,7 +49,7 @@ Redistribution, resale, or public reposting is not permitted without permission.
 ---
 
 ## 💼 Author
-Created by **[ARPITA SHARMA, GitHub Username]**  
+Created by **[ARPITA SHARMA, https://github.com/arpitaworkspace7-cpu]**  
 If you use this dataset, please give credit by linking back to this repository.
 
 ---
